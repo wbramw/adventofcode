@@ -4,7 +4,8 @@
   "description": "",
   "scripts": {
     "run:day-1": "cd src/day-1 && ts-node main.ts",
-    "run:day-2": "cd src/day-2 && ts-node main.ts"
+    "run:day-2": "cd src/day-2 && ts-node main.ts",
+    "run:day-3": "cd src/day-3 && ts-node main.ts"
   },
   "author": "",
   "license": "ISC",
