@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "run:day-1": "cd src/day-1 && ts-node main.ts"
+    "run:day-1": "cd src/day-1 && ts-node main.ts",
+    "run:day-2": "cd src/day-2 && ts-node main.ts"
   },
   "author": "",
   "license": "ISC",
